@@ -1,0 +1,9 @@
+Flask==1.1.2
+pyjwt==1.7.1
+python-dotenv==0.15.0
+flask-cors==3.0.10
+boto3>=1.15.0
+AWSIoTPythonSDK>=1.4.9
+pytest==6.2.3
+waitress==2.0.0
+python-jose>=3.2.0
